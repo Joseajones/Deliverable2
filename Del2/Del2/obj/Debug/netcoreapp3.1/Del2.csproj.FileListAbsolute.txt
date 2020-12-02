@@ -1,0 +1,13 @@
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\bin\Debug\netcoreapp3.1\Del2.exe
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\bin\Debug\netcoreapp3.1\Del2.deps.json
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\bin\Debug\netcoreapp3.1\Del2.runtimeconfig.json
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\bin\Debug\netcoreapp3.1\Del2.runtimeconfig.dev.json
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\bin\Debug\netcoreapp3.1\Del2.dll
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\bin\Debug\netcoreapp3.1\Del2.pdb
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\obj\Debug\netcoreapp3.1\Del2.csprojAssemblyReference.cache
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\obj\Debug\netcoreapp3.1\Del2.AssemblyInfoInputs.cache
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\obj\Debug\netcoreapp3.1\Del2.AssemblyInfo.cs
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\obj\Debug\netcoreapp3.1\Del2.csproj.CoreCompileInputs.cache
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\obj\Debug\netcoreapp3.1\Del2.dll
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\obj\Debug\netcoreapp3.1\Del2.pdb
+C:\Users\JoseA\Documents\C#GrandCircus\Del2\Del2\Del2\obj\Debug\netcoreapp3.1\Del2.genruntimeconfig.cache
