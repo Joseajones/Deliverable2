@@ -10,7 +10,7 @@ namespace Del2
             int numberOfFlips;
             int correctCount;
             int userImput;
-                        Random CoinFlip = new Random();
+            Random CoinFlip = new Random();
 
             Console.Write("Welcome to the Heads or Tails game " +
                 "\nGuess which side will show more times, Heads or Tails?  ");
@@ -27,7 +27,7 @@ namespace Del2
             if (headsOrTailsGuess == "Heads")
             {
                 userImput = 0;
-            } else
+            } else 
             {
                 userImput = 1;
             }
@@ -35,7 +35,7 @@ namespace Del2
             Console.Write("How many times would you like the coin to be flipped? ");
 
             numberOfFlips = int.Parse (Console.ReadLine());
-             
+
             correctCount = 0;
 
 
@@ -44,21 +44,30 @@ namespace Del2
 
                 int flip = CoinFlip.Next(0, 2);
 
-                if (flip == userImput)
+                if (flip == 0)
                 {
-                    correctCount++;
+                    
                     Console.WriteLine("Head");
                 } 
                 
                 else 
                 {
+                    
                     Console.WriteLine("Tail");
+                    
                 }
 
-               
+                if (flip == userImput)
+                {
+                    correctCount++;
+                    
+                }
+
+                
+
             }
 
-            decimal percentage =  (decimal) correctCount / numberOfFlips * 100;
+            double percentage =  (double) correctCount / numberOfFlips * 100;
 
             Console.WriteLine( "Your guess, " + headsOrTailsGuess + ", came up "  + correctCount + " time (s) \nThat's " + percentage + "%");
             Console.ReadLine();
